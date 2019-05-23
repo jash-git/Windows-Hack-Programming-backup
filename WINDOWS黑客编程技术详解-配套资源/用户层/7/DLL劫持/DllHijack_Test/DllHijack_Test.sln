@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllHijack_Test", "DllHijack_Test\DllHijack_Test.vcxproj", "{CD04D948-23AF-4457-A6E3-2A9081F1C298}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllHijack2_Test", "DllHijack2_Test\DllHijack2_Test.vcxproj", "{D0B385CF-B4CC-4CD0-A781-C9F0B5C63B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD04D948-23AF-4457-A6E3-2A9081F1C298}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CD04D948-23AF-4457-A6E3-2A9081F1C298}.Debug|Win32.Build.0 = Debug|Win32
+		{CD04D948-23AF-4457-A6E3-2A9081F1C298}.Release|Win32.ActiveCfg = Release|Win32
+		{CD04D948-23AF-4457-A6E3-2A9081F1C298}.Release|Win32.Build.0 = Release|Win32
+		{D0B385CF-B4CC-4CD0-A781-C9F0B5C63B6D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0B385CF-B4CC-4CD0-A781-C9F0B5C63B6D}.Debug|Win32.Build.0 = Debug|Win32
+		{D0B385CF-B4CC-4CD0-A781-C9F0B5C63B6D}.Release|Win32.ActiveCfg = Release|Win32
+		{D0B385CF-B4CC-4CD0-A781-C9F0B5C63B6D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

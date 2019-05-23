@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateProcessAsUser_Test", "CreateProcessAsUser_Test\CreateProcessAsUser_Test.vcxproj", "{A8C0CFF2-0FC0-4C72-9C58-8E02AB0747E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServiceLoader", "ServiceLoader\ServiceLoader.vcxproj", "{92E78D64-8074-43AB-8B07-72738192BA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C0CFF2-0FC0-4C72-9C58-8E02AB0747E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8C0CFF2-0FC0-4C72-9C58-8E02AB0747E0}.Debug|Win32.Build.0 = Debug|Win32
+		{A8C0CFF2-0FC0-4C72-9C58-8E02AB0747E0}.Release|Win32.ActiveCfg = Release|Win32
+		{A8C0CFF2-0FC0-4C72-9C58-8E02AB0747E0}.Release|Win32.Build.0 = Release|Win32
+		{92E78D64-8074-43AB-8B07-72738192BA9A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92E78D64-8074-43AB-8B07-72738192BA9A}.Debug|Win32.Build.0 = Debug|Win32
+		{92E78D64-8074-43AB-8B07-72738192BA9A}.Release|Win32.ActiveCfg = Release|Win32
+		{92E78D64-8074-43AB-8B07-72738192BA9A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

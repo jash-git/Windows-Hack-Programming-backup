@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GlobalHook_Test", "GlobalHook_Test\GlobalHook_Test.vcxproj", "{09A8B859-CC0E-4706-99C4-7EA079B7F200}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{E9D933F0-CD10-44B2-A2F0-61B6A6FB947F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A8B859-CC0E-4706-99C4-7EA079B7F200}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09A8B859-CC0E-4706-99C4-7EA079B7F200}.Debug|Win32.Build.0 = Debug|Win32
+		{09A8B859-CC0E-4706-99C4-7EA079B7F200}.Release|Win32.ActiveCfg = Release|Win32
+		{09A8B859-CC0E-4706-99C4-7EA079B7F200}.Release|Win32.Build.0 = Release|Win32
+		{E9D933F0-CD10-44B2-A2F0-61B6A6FB947F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9D933F0-CD10-44B2-A2F0-61B6A6FB947F}.Debug|Win32.Build.0 = Debug|Win32
+		{E9D933F0-CD10-44B2-A2F0-61B6A6FB947F}.Release|Win32.ActiveCfg = Release|Win32
+		{E9D933F0-CD10-44B2-A2F0-61B6A6FB947F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
